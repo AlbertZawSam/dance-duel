@@ -1,6 +1,6 @@
 # Dance Duel — AI-Powered Blind Dance Challenge
 
-CSC493 Intelligent Systems and Applications (2026 theme: AI and Entertainment) · Albert Zaw Sam
+CSC493 Intelligent Systems and Applications (2026 theme: AI and Entertainment).
 
 Players learn a short routine, then perform an **official attempt from memory while only the song plays**. The server compares the recording with a **hidden reference** using pretrained pose estimation (RTMPose) and an explainable score. Two players can duel **asynchronously** against the same locked challenge version.
 
